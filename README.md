@@ -1,6 +1,6 @@
 # Web Crawler HTTP — Redes de Computadores
 
-**Autor:** Gabriel Menezes de Araújo — Matrícula: 241020803
+**Autor:** Gabriel Menezes de Araújo
 Universidade de Brasília — Departamento de Ciência da Computação
 
 ## Sobre
