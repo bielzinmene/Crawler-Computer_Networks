@@ -58,10 +58,11 @@ crawler.crawlar('http://info.cern.ch/hypertext/WWW/TheProject.html', max_paginas
 - `verbose`: `False` para execução silenciosa
 
 ## Estrutura do projeto
-.
-├── crawler.py
-├── relatorio_crawler.txt
-└── README.md
+
+    .
+    ├── crawler.py
+    ├── relatorio_crawler.txt
+    └── README.md
 
 ## Resultados de teste
 
